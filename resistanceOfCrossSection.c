@@ -11,7 +11,6 @@ alpha and how much it is able to bend shown by elliptical
 components i1, and i2
 */
 
-float *getValues();
 float radToDegree( float );
 float angle( float, float, float);
 float *main_I( float, float, float );
