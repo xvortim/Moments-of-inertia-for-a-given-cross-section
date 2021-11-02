@@ -57,7 +57,6 @@ float *main_I( float Ix, float Iy, float Ixy ) {
 
 float *elipse_i( float *arr, float area ) {
     static float i_arr[2];
-
     i_arr[0] = sqrt( arr[0] / area );
     i_arr[1] = sqrt( arr[1] / area );
 
