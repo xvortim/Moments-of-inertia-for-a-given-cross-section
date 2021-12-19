@@ -8,7 +8,7 @@
 The idea of this code is to use the given Ix, Iy and Ixy values
 to calculate the min/max angle of rotation for the crossSection
 alpha and how much it is able to bend shown by elliptical
-components i1, and i2
+components i1, and i2, addon
 */
 
 float radToDegree( float );
